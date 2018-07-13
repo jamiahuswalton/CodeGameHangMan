@@ -6,7 +6,7 @@ public class IgnoreThisClass : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		//Testing ignore feature on here
 	}
 	
 	// Update is called once per frame
