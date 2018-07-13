@@ -34,4 +34,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-Assets/_Scripts/DatabasePassword.cs.meta
+Assets/_Scripts/DatabasePassword.cs
