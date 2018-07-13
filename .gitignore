@@ -34,6 +34,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-
-# Files to ignore
-Assets/_Scripts*
+Assets/_Scripts/DatabasePassword.cs.meta
