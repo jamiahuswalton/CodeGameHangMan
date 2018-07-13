@@ -36,3 +36,4 @@ sysinfo.txt
 *.unitypackage
 Assets/_Scripts/IgnoreThisClass.cs
 Assets/_Scripts/DatabasePassword.cs
+Assets/_Scripts/DatabasePassword.cs
