@@ -9,6 +9,8 @@ public class DatabasePassword : MonoBehaviour {
 		//This file will be ignored in Github
 
 		//Was this change shown?
+
+		//Test number 2
 	}
 	
 	// Update is called once per frame
