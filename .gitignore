@@ -35,3 +35,4 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Assets/_Scripts/IgnoreThisClass.cs
+Assets/_Scripts/DatabasePassword.cs
